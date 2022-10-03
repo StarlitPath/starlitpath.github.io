@@ -1,6 +1,7 @@
 ---
 title: Surplex
 parent: Upcoming Solutions
+description: Overall price: $169-$339 | Surplex is an upcoming full-body method that uses shoe-like trackers, only two modules are needed for tracking.
 ---
 #Surplex
 

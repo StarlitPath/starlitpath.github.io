@@ -1,6 +1,7 @@
 ---
 title: AprilTag
 parent: Current Solutions
+description: Overall price: varies wildly | AprilTag trackers consists of printed or even hand-drawn "QR-code style" markers that get tracked in 6DOF space by a webcam.
 ---
 
 # AprilTag

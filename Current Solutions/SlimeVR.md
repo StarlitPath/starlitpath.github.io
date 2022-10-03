@@ -1,6 +1,7 @@
 ---
 title: SlimeVR
 parent: Current Solutions
+description: Overall price: $165-$455 | SlimeVR uses fancy kinematics math to figure out body tracker positions from rotation only. This means it can work in small rooms and under blankets.
 ---
 
 # SlimeVR
