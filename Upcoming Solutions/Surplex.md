@@ -5,7 +5,7 @@ description: Overall price: $169-$339 | Surplex is an upcoming full-body method 
 ---
 
 # Surplex
-An upcoming full-body method currently on Kickstarter, it uses two shoe-like trackers to track your feet from just rotation alone.
+An upcoming full-body method currently on Kickstarter, using two shoes equipped with IMUs and pressure sensors to determine foot position and full-body movement through shifts in one's center of gravity.
 
 **Overall price:** $169-$339
 
