@@ -1,4 +1,7 @@
-# Contributors
+---
+title: Contributers
+parent: About
+---
 
 The content of the website was drafted by StarlitPath, an active user of the VR community who seeks to help shed light on topics of confusion and be a star to guide others through the virtual reality.
 
