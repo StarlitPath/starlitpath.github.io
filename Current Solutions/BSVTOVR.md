@@ -2,9 +2,11 @@
 title: Base Stations + Vive Trackers
 parent: Current Solutions
 ---
+# Base Stations + Vive Trackers
+Despite the fact HTC makes the trackers, you can use them with any headset given you add [compatible](#remarks) base stations to your setup.
 
-Requirements:
-* Two Base Station 1.0 or 2.0’s and a mounting solution for them
+### Requirements:
+* Two Base Stations 1.0 or 2.0 and a mounting solution for them (2.0 stations come with wall mounting hardware included)
   * Base Station 1.0: Roughly $200
   * Base Station 2.0: Roughly $400
   * Mounting solutions vary. You can technically put them on tables or bookshelves, but this part is completely up to you. Follow official guides to make the best determinations concerning this.
@@ -18,6 +20,11 @@ Requirements:
 
 Overall price: $700-$900
 
-Thoughts:
-* The price commanded for doing this combined with the price you paid for the Quest 2 does not make for a good value proposition. If you are fine with base stations, you would likely get a cheaper better experience purchasing a PCVR headset kit that comes with the base stations already.
-* If you do decide to do so, OpenVR Space Calibrator is an impressive piece of software with active helpers on the Discord server. Recalibration is common however.
+### Thoughts:
+The price of the entire setup, when added on top of buying a Quest 2, does not make for a good value proposition.
+
+If you haven't got a headset yet, you would likely get a cheaper better experience purchasing a PCVR headset kit that comes with the base stations already.
+
+If you do decide to do so, OpenVR Space Calibrator is an impressive piece of software with active helpers on the Discord server. Recalibration is common however.
+
+### Remarks
