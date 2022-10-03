@@ -1,5 +1,5 @@
-#Current Solutions
 ---
+title: Current Solutions
 has_children: true
 ---
 
