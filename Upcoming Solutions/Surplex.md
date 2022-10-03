@@ -2,6 +2,9 @@
 title: Surplex
 parent: Upcoming Solutions
 ---
+#Surplex
+
+Overall price: $169-$339
 
 Requirements:
 * The Surplex Basic or Pro model
@@ -9,8 +12,6 @@ Requirements:
   * Surplex Pro: $199-$239 Kickstarter, $339 retail
 * Optional: Separate hip tracker supported but unnecessary for more fine-tuned hip-tracking.
 * Surplex Software: Not currently available to download
-
-Overall price: $169-$339
 
 Support: https://discord.gg/N7CjBQVjfp
 
