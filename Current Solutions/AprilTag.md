@@ -1,13 +1,17 @@
 ---
 title: AprilTag
 parent: Current Solutions
+description: Overall price: varies wildly | AprilTag trackers consists of printed or even hand-drawn "QR-code style" markers that get tracked in 6DOF space by a webcam.
 ---
 
 # AprilTag
+This works by having a webcam track the shape of printed or hand-drawn "QR-code style" markers on your ankles and waist. Position and rotation is inferred from this.
 
-Overall cost: Varies wildly. They recommend trying what you already have on hand before trying to go out and purchase a specific webcam for it. Only other cost is the printing out and DIY of the trackers themselves.
+The developer recommends trying what you already have on hand before trying to go out and purchase a specific webcam for it. Only other cost is the printing out and DIY of the trackers themselves.
 
-Requirements:
+**Overall price:** varies wildly
+
+### Requirements:
 * For detailed requirements, refer to here. The proper method requires much more setup than I could detail here. https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker/wiki/Requirements
 * Camera meeting the following specifications(as pulled from their wiki):
   * Resolution: A resolution of 720p is usually optimal. 480p can work, but you will have reduced range of detection.
@@ -23,6 +27,6 @@ Requirements:
 
 For Support: https://discord.gg/g2ctkXB4bb
 
-Thoughts:
+### Thoughts:
 * If you can get everything set up optimally, the tracking quality is impressive. See an example here: https://www.youtube.com/watch?v=Bngdi5zPxXc
 * There is also MediaPipe which only requires a Webcam and a piece of software, but the requirements are different and it is a work-in-progress. Not recommended. Read up on it here: https://github.com/ju1ce/Mediapipe-VR-Fullbody-Tracking
