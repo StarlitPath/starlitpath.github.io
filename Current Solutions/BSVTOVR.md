@@ -3,6 +3,7 @@ title: Base Stations + Vive Trackers
 parent: Current Solutions
 description: Overall price: $700-$900 | Vive Trackers are often considered the standard for body tracking, while expensive, they provide the best tracking quality.
 ---
+
 # Base Stations + Vive Trackers
 Despite the fact HTC makes the trackers, **you can use them with any headset** given you add [compatible](#remarks) base stations to your setup. It's often considered the de facto standard for full-body tracking.
 
