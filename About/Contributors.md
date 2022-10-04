@@ -7,4 +7,4 @@ parent: About
 
 Project Maintainer: StarlitPath
 
-Helper with setup and information: The lovely Noelle
+Initial helper with website setup and information: The lovely Noelle
