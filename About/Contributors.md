@@ -5,6 +5,6 @@ parent: About
 
 # Contributors
 
-Original Draft of written content and project idea: StarlitPath
+Project Maintainer: StarlitPath
 
-Logo, formatting and helpful elaborations: The lovely Noelle
+Helper with setup and information: The lovely Noelle
