@@ -7,4 +7,4 @@ parent: About
 
 Original Draft of written content and project idea: StarlitPath
 
-Pretty much everything else including logo, formatting and elaborations: Noelle
+Logo, formatting and helpful elaborations: The lovely Noelle
