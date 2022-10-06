@@ -15,9 +15,7 @@ You should not purchase a webcam or phone for this method without trying what yo
 ### Option 1: AprilTag
 This option uses the Camera + Print outs version of the solution.
 
-The video below is an example of a best-case scenario for this Option:
-
-<video muted controls style="width:100%; height:auto;" src="https://www.youtube.com/watch?v=Bngdi5zPxXc"></video>
+This video is an example of a best case scenario for this Option: https://www.youtube.com/watch?v=Bngdi5zPxXc
 
 #### Requirements:
 * For detailed requirements, refer to here. The proper method requires much more setup than I could detail here. https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker/wiki/Requirements
