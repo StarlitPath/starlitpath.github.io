@@ -3,10 +3,6 @@ title: Base Stations With Trackers
 parent: Solutions
 ---
 
----
-description: Overall price: $700-$900 | Theoretically the best quality tracking available on the market as of now, pricey and involved for IOT Headsets.
----
-
 # Base Stations With Trackers
 While usually the setup reserved for non-IOT headsets, this method is still possible with IOT devices, if you are willing to spend the money and effort to get it working.
 
