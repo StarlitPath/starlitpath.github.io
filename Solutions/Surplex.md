@@ -12,11 +12,9 @@ An upcoming full-body method currently on Kickstarter, using two shoes equipped 
 
 **Overall price:** $169-$339
 
-Standing demo:
-<video muted controls style="width:100%; height:auto;" src="https://www.youtube.com/embed/bjUOmql6xm4"></video>
+Standing demo: https://www.youtube.com/watch?v=bjUOmql6xm4
 
-Sitting demo:
-<video muted controls style="width:100%; height:auto;" src="https://www.youtube.com/watch?v=--Tei6QvCe0"></video>
+Sitting demo: https://www.youtube.com/watch?v=--Tei6QvCe0
 
 ### Requirements:
 * The Surplex Basic or Pro model
