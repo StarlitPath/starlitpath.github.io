@@ -3,10 +3,6 @@ title: SlimeVR
 parent: Solutions
 ---
 
----
-description: Overall price: $165-$455 | SlimeVR uses fancy kinematics math to figure out body tracker positions from rotation only. This means it can work in small rooms and under blankets.
----
-
 # SlimeVR
 While theoretically less precise than Base Station-tracked Trackers, SlimeVR Trackers provide completely unobstructed FBT, allowing for users to move freely without worry of base stations and being able to cover up while still retaining tracking.
 
