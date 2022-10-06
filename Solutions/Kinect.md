@@ -3,10 +3,6 @@ title: Kinect
 parent: Solutions
 ---
 
----
-description: Overall price: $20-$40+ | Kinect, despite its limitations, can do much more than most users think on a very tight budget.
----
-
 # Kinect
 While Kinect is not highly regarded by many users, it is nonetheless a competent solution that is highly functional with the right software and setup.
 
