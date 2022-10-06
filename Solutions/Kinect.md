@@ -14,7 +14,7 @@ To quote from the K2VR team:
 ### Requirements:
 * Xbox 360 or Xbox One Kinect with power/USB adapter to plug into wall and computer
   * Warning: Xbox One Kinect is NOT recommended. While newer, it is known to be incredibly problematic. Refer to here: https://docs.k2vr.tech/en/one/common-issues/
-  * Note: If purchasing adapter separately, avoid purchasing one from Amazon. Those adapters are known to have trouble.
+  * Note: According to K2VR, if you need to purchase an adapter by itself, avoid purchasing one from Amazon. Those adapters are known to their team to have trouble.
   * Xbox 360+Adapter: Roughly $20.
   * Xbox One+Adapter: Roughly $30-$40+.
 * Optional alternative: 3-4 Playstation Eye Cameras and 3 Playstation Move Controllers, should not be used unless you already own the relevant hardware.
