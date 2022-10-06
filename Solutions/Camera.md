@@ -3,10 +3,6 @@ title: Camera
 parent: Solutions
 ---
 
----
-description: Overall price: varies wildly | FBT using a webcam or phone camera!
----
-
 # Camera
 There are two versions of this solution:
 * Camera + Print outs: This is the DIY solution requiring the printing of particular QR-code style markers for the purposes of your camera being able to track them. Requires making platforms out of cardboard or otherwise to place them on to then attach to your body like standard Trackers.
