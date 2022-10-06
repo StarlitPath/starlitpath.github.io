@@ -3,10 +3,6 @@ title: Surplex
 parent: Solutions
 ---
 
----
-description: Overall price: $169-$339 | Surplex is an upcoming full-body method that uses specialized shoes to track full-body movements.
----
-
 # Surplex
 An upcoming full-body method currently on Kickstarter, using two shoes equipped with IMUs and pressure sensors to determine foot position and full-body movement through shifts in one's center of gravity.
 
