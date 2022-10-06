@@ -1,6 +1,9 @@
 ---
 title: Camera
 parent: Solutions
+---
+
+---
 description: Overall price: varies wildly | FBT using a webcam or phone camera!
 ---
 
